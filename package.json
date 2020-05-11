@@ -1,0 +1,28 @@
+{
+  "name": "xtremeworkers",
+  "version": "1.0.0",
+  "description": "Sainox Technologies Product 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashrajput/Product-1-Server.git"
+  },
+  "author": "Sainox Technologies Pvt Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashrajput/Product-1-Server/issues"
+  },
+  "homepage": "https://github.com/aakashrajput/Product-1-Server#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
